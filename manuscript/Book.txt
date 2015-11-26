@@ -1,2 +1,2 @@
 about_me.md
-tableofcontents.md
+table_of_contents.md
