@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* About Me
+* [About Me](manuscript/about_me.md)
 
