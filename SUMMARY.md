@@ -1,4 +1,3 @@
 # Summary
 
-* noob-drupal-book
 
