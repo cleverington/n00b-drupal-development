@@ -1,2 +1,2 @@
-aboutme.txt
-tableofcontents.txt
+aboutme.md
+tableofcontents.md
