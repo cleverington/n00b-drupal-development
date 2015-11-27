@@ -1,18 +1,13 @@
 # A n00b's Guide to Drupal, Development, & Everything
+#### By: Charles R. Leverington \(aka: Pedran\)
 
 As Markdown is probably the single greatest tool for developers when writing instructional documents, what better way to introduce myself to [Markdown](https://daringfireball.net/projects/markdown/) then to actively write a book?
 
-The second project, "**A n00b's Guide to Drupal, Development, & Everything** \(*Or something like that...*\)", is a project to leverage multiple long-term goals:
+Drupal 5, Drupal 6, Drupal 7, and, now, Drupal 8 are all powerful platforms for cultivating, developing, and managing the ultimate User Experience. Other platforms such as Wordpress, Joomla, DotNetNuke, Ethereum, Ruby on Rails, and beyond all offer their unique approach to deployed User Experience platforms.
 
- + Build an understanding of the available tools within GitBook and GitHub,
- + Create a viable Study Guide for each of the the Acquia Certified Drupal Developer Exams:
-   - Certified Drupal Site Builder
-   - Certified Developer Exam
-   - Certified Developer Back-End Specialist Exam
-   - Certified Developer Front-End Specialist Exam
-   - Any other Certifications as they come!
- + Have fun playing in Git and Authoring content.
+With the creeping Normalization across code libraries, platforms, and languages, it will not be long until web-development platforms like [Drupal](https://www.drupal.org/ "Drupal") are equally as viable for cross-platform and gaming development as such as the [Unity Game Engine](https://unity3d.com/ "Unity") or the [Unreal Engine](https://www.unrealengine.com/ "Unreal Engine 4") /(**Hint:** *It is getting there now...*/)
 
-### A n00b's Guide to Drupal, Development, & Everything
-#### By: Charles R. Leverington \(aka: Pedran\)
+
+
+
 

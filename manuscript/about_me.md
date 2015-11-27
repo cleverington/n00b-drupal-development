@@ -6,15 +6,6 @@ My name, as you might have guessed, is Charles Leverington (aka: Pedran). I am a
 
 I have written various fiction short stories, novellas, and even a couple of novels over the last decade and published a few in-progress fan fiction works on FanFiction.net \(aka: [Pedran](https://www.fanfiction.net/u/164598/Pedran "Pedran FanFiction Pad") \). 
 
-# About this book
-
-**Today?** This book is a work-in-progress. 
-
-As mentioned on the Foreword, there are multiple goals. If I get Contributors along the way? Great. If not? Great. This purpose of this book is not profit. It is more a personal manual and personal journal. 
-
-+ If it can be written, it is known. 
-+ If it is known, it is reproducible.
-
 # Look me up
 
 > "No man is an island." ~ John Donne \(1624\)
@@ -23,4 +14,7 @@ If there's a mistake, let me know.
 If I can make it better, let me know.
 
 This book is a journey and I do not plan on taking it alone.
-
+Thoughts, recommendations, good recipes for cooking pumpkin:
+* [Twitter | @c_leverington](https://twitter.com/c_leverington "Twitter: @c_leverington")
+* [github | cleverington](https://github.com/cleverington/n00b-drupal-development "n00b's Guide on GitHub")
+* [Dorg](https://www.drupal.org/u/cleverington "drupal.org/u/cleverington")
