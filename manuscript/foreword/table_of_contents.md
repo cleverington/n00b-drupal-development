@@ -1,4 +1,4 @@
-# Summary
+# Table of Contents
 
 * [Introduction](README.md) 
 * [Foreword](manuscript/chapters/foreword.md)
