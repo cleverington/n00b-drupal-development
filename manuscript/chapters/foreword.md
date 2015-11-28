@@ -16,6 +16,6 @@ By happy coincidence, the journey \(roughly\) matches the Core Competencies as d
 
 # Note
 
-This book is both a work-in-progress (WIP) and a research driven committment to **Novice Level** Drupal, Front-End Development, Back-End Development, Ansible, VNWare, Drush, etc. knowledge aggregation. 
+This book is both a work-in-progress (WIP) and a research driven commitment to **Novice Level** Drupal, Front-End Development, Back-End Development, Ansible, VNWare, Drush, etc. knowledge aggregation. 
 
-It is not, and will never be, for example, [The Definitive Guide to Drupal 7](http://definitivedrupal.org/ "The Definitive Guide to Drupal 7: Configuration, Code, and Community"). I cheerfully take zero responsibility for faults or mistakes in this book and will just as cheefully accept comments, Contribs, etc.
+It is not, and will never be, for example, [The Definitive Guide to Drupal 7](http://definitivedrupal.org/ "The Definitive Guide to Drupal 7: Configuration, Code, and Community"). I cheerfully take zero responsibility for faults or mistakes in this book and will just as cheerfully accept comments, Contribs, etc.
