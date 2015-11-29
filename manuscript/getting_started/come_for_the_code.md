@@ -17,5 +17,5 @@ The long-answer is: Longer.
 
 [The Drupal Security Team](https://www.drupal.org/security-team "The Drupal Security Team") Infographic on maintaining a Secure and happy Druplicon:
 
-![Keeping Drupal Secure]https://github.com/cleverington/n00b-drupal-development/blob/master/images/getting_started_img/keeping_drupal_secure.jpg "Keeping Drupal Secure")
+![Keeping Drupal Secure](https://github.com/cleverington/n00b-drupal-development/blob/master/images/getting_started_img/keeping_drupal_secure.jpg "Keeping Drupal Secure")
 
