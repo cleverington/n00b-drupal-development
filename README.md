@@ -5,7 +5,7 @@ This book was originally inspired by @NaNoWriMo, but took on a life of its own w
 
 ### Final Wordcount on 11/30/2015 at 11:59pm: \(Pending\)
 
-![Druplicon](https://github.com/cleverington/n00b-drupal-development/blob/master/images/drupal-logos/druplicon-logos/druplicon-vector.svg "Druplicon")
+![Druplicon](https://github.com/cleverington/n00b-drupal-development/blob/master/images/drupal-logos/druplicon-logos/druplicon-small.png "Druplicon")
 
 Drupal 5, Drupal 6, Drupal 7, and, now, Drupal 8 are all powerful platforms for cultivating, developing, and managing the ultimate User Experience. Support for Drupal 5 and 6 might have ended, but resources for each are still available if emerging Developers wish to dig into the 'History' of [Drupal](https://www.drupal.org/ "drupal.org").
 
