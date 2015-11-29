@@ -14,7 +14,7 @@ The Documentation has useful gems:
  + [The Drupal Cookbook (for beginners)](https://www.drupal.org/documentation/customization/tutorials/beginners-cookbook "The Drupal Cookbook (for beginners)")
   - The Beginner's Guide was, at one point, a useful journey for Beginner and Novice level Administrators, Site Builders, DevOps, and SysOps for 'How to Start Drupal'. I \(the author\) actually contributed a number of pages to the build in 2011. As it is now, however... 
 
-# Note
+### Note
 
 This book is both a work-in-progress (WIP) and a research driven commitment to **Novice Level** Drupal, Front-End Development, Back-End Development, Ansible, VNWare, Drush, etc. knowledge aggregation. 
 

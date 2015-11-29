@@ -12,3 +12,5 @@
  * [Come For The Code](manuscript/getting_started/come_for_the_code.md)
  * [Stay For The Community](manuscript/getting_started/stay_for_the_community.md)
  * [Drupal Learning Resources](manuscript/getting_started/drupal_learning_resources.md)
+* [About Drupal](manuscript/chapters/about_drupal.md)
+ * [The Paper Project](manuscript/drupal/the_paper_project.md)
