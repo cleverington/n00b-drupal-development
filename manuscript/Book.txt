@@ -1,2 +1,13 @@
-about_me.md
-table_of_contents.md
+# chapters/foreword.md
+## foreword/foreword_license.md
+## foreword/table_of_contents.md
+## foreword/about_the_book.md
+## foreword/about_the_author.md
+# chapters/getting_started.md
+## getting_started/who_should_read.md
+## getting_started/using_this_book.md
+## getting_started/come_for_the_code.md
+## getting_started/stay_for_the_community.md
+## getting_started/drupal_learning_resources.md
+# chapters/about_drupal.md
+## drupal/the_paper_project.md
