@@ -13,13 +13,13 @@ In truth, Drupal is better defined as a User Interface (UI) and User Experience 
 Drupal, like many other open source software, is distributed under the terms of the [GNU General Public License (GPL)](http://www.gnu.org/copyleft/gpl.html "GPL"). 
 
 -----
-### Mission
+#### Mission
 
 "The Drupal mission is to build the best open source content management framework—one that represents the newest ideas and best practices in community publishing, knowledge management, and software design. We believe in open source, innovation, globalism, and collaboration."
 
 -----
 
-### Further Reading:
+#### Further Reading:
 
  + Drupal Licensing: [https://www.drupal.org/about/licensing](https://www.drupal.org/about/licensing "Drupal Licensing")
  + Drupal Mission, Values, and Principles: [https://www.drupal.org/about/mission-and-principles](https://www.drupal.org/about/mission-and-principles "Mission, Values, and Principles") 

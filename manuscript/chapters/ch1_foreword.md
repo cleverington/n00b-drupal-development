@@ -8,11 +8,11 @@ By happy coincidence, the journey \(roughly\) matches the Core Competencies as d
 
 The Documentation has useful gems: 
  + [Drupal 7 - The Essentials](https://www.drupal.org/documentation/the-essentials-7 "Drupal 7 Essentials") 
-  - This lovely gem was added via the Creative Commons license to drupal.org in May 2012. For Developers transferring their current knowledge-base into Drupal-Development, this book is amazing. Unfortunately, the book also makes a number of assumptions, such as Development being done in a Drupal 7 environment.  
+  - This lovely gem was added via the Creative Commons license to drupal.org in May 2012. For Developers transferring their current knowledge-base into Drupal-Development, this book is amazing. Unfortunately, the book also makes a number of assumptions, such as Development being done in a Drupal 7 environment and Developers knowing *exactly* what they are doing like Code Ninjas for everything not directly Drupal.  
  + [The Drupal Cookbook (for beginners)](https://www.drupal.org/documentation/customization/tutorials/beginners-cookbook "The Drupal Cookbook (for beginners)")
   - The Beginner's Guide was, at one point, a useful journey for Beginner and Novice level Administrators, Site Builders, DevOps, and SysOps for 'How to Start Drupal'. I \(the author\) actually contributed a number of pages to the build in 2011. As it is now, however... 
 
-### Note
+#### Note
 
 This book is both a work-in-progress (WIP) and a research driven commitment to **Novice Level** Drupal, Front-End Development, Back-End Development, Ansible, VNWare, Drush, etc. knowledge aggregation. 
 
