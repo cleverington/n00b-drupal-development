@@ -1,10 +1,6 @@
 # A n00b's Guide to Drupal, Development, & Everything
 #### By: Charles R. Leverington \(aka: Pedran\)
 
-This book was originally inspired by @NaNoWriMo, but took on a life of its own when compared against how much sheer **knowledge** needing to be imparted. 
-
-### Final Wordcount on 11/30/2015 at 11:59pm: \(Pending\)
-
 ### Druplicon: 
 
 ![Druplicon](https://github.com/cleverington/n00b-drupal-development/blob/master/images/drupal-logos/druplicon-logos/druplicon-small.png "Druplicon") 

@@ -28,3 +28,44 @@
  * [Pantheon.io | Decoupled CMS: Why "Going Headless" Is Becoming So Popular](https://pantheon.io/decoupled-cms "Decoupled CMS: Why Going Headless Is Becoming So Popular")
 
 -----
+
+### Vagrant | 
+ * vagrant up
+  * vagrant up --provision
+ * vagrant halt
+ * vagrant destroy
+ * vagrant ssh
+ * vagrant halt
+
+-----
+
+### Cmder | 
+ *
+
+-----
+
+### Gulp | Grunt | 
+ *
+
+-----
+
+### YAML
+ *
+
+-----
+
+### Composer
+ *
+
+-----
+
+### Symfony
+ *
+
+-----
+
+### Node.js
+ * command: nodejs server.js
+
+-----
+
