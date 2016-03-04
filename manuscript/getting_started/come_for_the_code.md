@@ -24,7 +24,7 @@ If that is not enough, the Ottawa-based team [OpenConcept](http://openconcept.ca
 
  + [d.o | Is Drupal Secure](https://www.drupal.org/documentation/is-drupal-secure "Is Drupal Secure?"): d.o page on Security and where links can be found for beginner level knowledge. 
 
-[The Drupal Security Team](https://www.drupal.org/security-team "The Drupal Security Team") Infographic on maintaining a Secure and happy Druplicon:
+ + [The Drupal Security Team](https://www.drupal.org/security-team "The Drupal Security Team") Infographic on maintaining a Secure and happy Druplicon:
 
-![Keeping Drupal Secure](https://github.com/cleverington/n00b-drupal-development/blob/master/images/getting_started_img/keeping_drupal_secure.jpg "Keeping Drupal Secure")
+ + [Keeping Drupal Secure](https://github.com/cleverington/n00b-drupal-development/blob/master/images/getting_started_img/keeping_drupal_secure.jpg "Keeping Drupal Secure")
 

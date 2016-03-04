@@ -1,6 +1,6 @@
 # About the author
 
-Howdy. 
+Howdy.
 
 As a Texan, I am told (often) I pretty much have to start with Howdy. Also, no, we do not check our horses at the border.
 
@@ -8,7 +8,7 @@ My name, as you might have guessed, is Charles Leverington (aka: Pedran or cleve
 
 I am a near-Fanatical Drupalist, (Self-Declared) Philosopher, Web Efficiency Designer, Aspiring Author, Think-tank, and Quality Specialist. I have worked for over a decade in both Quality Assurance and Online Development. I also has experience with design and customer module development in Drupal 6, Drupal 7, Drupal Gardens, and (soon) Drupal 8. To date, I have been a Contributor or Developer for three published websites and one Full-Stack Drupal design and deployment for a project-wide Intranet.
 
-I have written various fiction short stories, novellas, and even a couple of novels over the last decade and published a few in-progress fan fiction works on FanFiction.net \(aka: [Pedran](https://www.fanfiction.net/u/164598/Pedran "Pedran FanFiction Pad") \). 
+I have written various fiction short stories, novellas, and even a couple of novels over the last decade and published a few in-progress fan fiction works on FanFiction.net \(aka: [Pedran](https://www.fanfiction.net/u/164598/Pedran "Pedran's FanFiction Pad") \).
 
 # Look me up
 
