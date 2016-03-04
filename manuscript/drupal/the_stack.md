@@ -29,11 +29,17 @@ However, these are not the only stacks to know!
 The Browser Stack, known by dozens of other names, is a combination of more parts than we this book can fully address, but we will certainly make a good try of it!
 
 To understand **your** web-browser, we must first dig in to he history of web-browsers in general. To do this, we look to one of the authorities on all things **"The Internet"**: the World Wide Web Consortium [WC3](https://www.w3.org/ "The World Wide Web Consortium (W3C)").
- 
+
  The [WC3](https://www.w3.org/ "The World Wide Web Consortium (W3C)") has this explanation for how your web-browser works:
  > An HTML or XML document can be represented as a tree. Each document has one root or root node, which contains children or nodes, and which themselves can have children. Generally speaking, the leaves contain the text of document.
- > via [Philippe Le Hégaret, circa 2002](https://www.w3.org/2002/07/26-dom-article.html "Philippe Le Hégaret")
- 
- The article 
- 
+ > via [Philippe Le Hégaret, circa 2002](https://www.w3.org/2002/07/26-dom-article.html "Philippe Le Hégaret, circa 2002")
 
+The article, truthfully, is positively **ancient** from a technical standpoint. 2002 is practically the Stone Age when you consider the progress society has made in recent years in such technologies as Virtual Reality (VR), Big Data Analytics & Augmentented reality.
+
+In a more technical, and up to date, definition, [WC3](https://www.w3.org/ "The World Wide Web Consortium (W3C)") defines the Document Object Model as:
+> The Document Object Model is a platform- and language-neutral interface that will allow programs and scripts to dynamically access and update the content, structure and style of documents. The document can be further processed and the results of that processing can be incorporated back into the presented page.
+> via [Philippe Le Hégaret, circa January 19, 2005](https://www.w3.org/DOM/ "Philippe Le Hégaret, circa 2005")
+
+So what are the key points herein?
+
+*The DOM is platform and language neutral* - This means, theoretically, development can occur on any operating system, using any language. In theory, a Developer could conceivably build an entire website in COBAL.... but who would **want** to?
