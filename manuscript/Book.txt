@@ -10,10 +10,14 @@
 ## getting_started/come_for_the_code.md
 ## getting_started/stay_for_the_community.md
 ## getting_started/drupal_learning_resources.md
-# chapters/ch3_about_drupal.md
+# chapters/ch3_what_is_content_management.md
+## what_is_content_management/what_content_management_is.md
+## what_is_content_management/what_content_management_is_not.md
+## what_is_content_management/CMS_examples.md
+# chapters/ch4_about_drupal.md
 ## drupal/the_paper_project.md
 ## drupal/the_stack.md
-# chapters/ch4_drupal_learning.md
+# chapters/ch5_drupal_learning.md
 ## drupal_learning_resources/html_css_foundation_resources.md
 ## drupal_learning_resources/js_angular_ajax_json_resources.md
 ## drupal_learning_resources/databse_resources.md
