@@ -16,11 +16,11 @@
 * [About Drupal](manuscript/chapters/ch3_about_drupal.md)
    * [The Paper Project](manuscript/drupal/the_paper_project.md)
    * [The Stack](manuscript/drupal/the_stack.md)
-* [New Users](manuscript/chapters/ch5_new_users)
 * [Drupal Learning Resources](manuscript/chapters/ch4_drupal_learning.md)
    * [HTML, CSS, & Foundation](manuscript/drupal_learning_resources/html_css_foundation_resources.md)
    * [JS, AngularJS, AJAX, & JSON](manuscript/drupal_learning_resources/js_angular_ajax_json_resources.md)
    * [MySQL, SQL, IIS, PHP, & Apache](manuscript/drupal_learning_resources/database_resources.md)
    * [Git, GitHub, GitBook, & LeanPub](manuscript/drupal_learning_resources/git_github_gitbook_leanpub_resources.md)
    * [Drupal Resources](manuscript/drupal_learning_resources/drupal_resources.md)
+* [New Users](manuscript/chapters/ch5_new_users)
 
