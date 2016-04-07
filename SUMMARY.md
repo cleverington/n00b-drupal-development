@@ -12,6 +12,8 @@
  * [Come For The Code](manuscript/getting_started/come_for_the_code.md)
  * [Stay For The Community](manuscript/getting_started/stay_for_the_community.md)
  * [A Short Drupal History](manuscript/getting_started/drupal_history.md)
+* [What is Content Management](manuscript/chapters/ch3_what_is_content_management.md)
+* 
 * [About Drupal](manuscript/chapters/ch3_about_drupal.md)
  * [The Paper Project](manuscript/drupal/the_paper_project.md)
  * [The Stack](manuscript/drupal/the_stack.md)
