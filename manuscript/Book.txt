@@ -17,7 +17,8 @@
 # chapters/ch4_about_drupal.md
 ## drupal/the_paper_project.md
 ## drupal/the_stack.md
-# chapters/ch5_drupal_learning.md
+# chapters/ch5_new_users.md
+# chapters/ch6_drupal_learning.md
 ## drupal_learning_resources/html_css_foundation_resources.md
 ## drupal_learning_resources/js_angular_ajax_json_resources.md
 ## drupal_learning_resources/databse_resources.md
