@@ -17,7 +17,9 @@
    * [The Paper Project](manuscript/drupal/the_paper_project.md)
    * [The Stack](manuscript/drupal/the_stack.md)
 * [New Users](manuscript/chapters/ch5_new_users)
-  * 
+  * [Getting Started](manuscript/new_users/getting_started.md)
+  * [Your First Drupal Website](manuscript/new_users/your_first_drupal_website.md)
+  * [Site Building](manuscript/new_users/site_building.md)
 * [Drupal Learning Resources](manuscript/chapters/ch4_drupal_learning.md)
    * [HTML, CSS, & Foundation](manuscript/drupal_learning_resources/html_css_foundation_resources.md)
    * [JS, AngularJS, AJAX, & JSON](manuscript/drupal_learning_resources/js_angular_ajax_json_resources.md)
