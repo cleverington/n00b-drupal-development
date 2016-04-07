@@ -14,6 +14,7 @@
    * [A Short Drupal History](manuscript/getting_started/drupal_history.md)
 * [What is Content Management](manuscript/chapters/ch3_what_is_content_management.md)
 * [About Drupal](manuscript/chapters/ch3_about_drupal.md)
+   * [New Users](manuscript/chapters/ch5_new_users)
    * [The Paper Project](manuscript/drupal/the_paper_project.md)
    * [The Stack](manuscript/drupal/the_stack.md)
 * [Drupal Learning Resources](manuscript/chapters/ch4_drupal_learning.md)
@@ -22,5 +23,4 @@
    * [MySQL, SQL, IIS, PHP, & Apache](manuscript/drupal_learning_resources/database_resources.md)
    * [Git, GitHub, GitBook, & LeanPub](manuscript/drupal_learning_resources/git_github_gitbook_leanpub_resources.md)
    * [Drupal Resources](manuscript/drupal_learning_resources/drupal_resources.md)
-* [New Users](manuscript/chapters/ch5_new_users)
 
