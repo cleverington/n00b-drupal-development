@@ -19,6 +19,7 @@
 * [About Drupal](manuscript/chapters/ch3_about_drupal.md)
    * [The Paper Project](manuscript/drupal/the_paper_project.md)
    * [The Stack](manuscript/drupal/the_stack.md)
+   * [Design Systems](manuscript/drupal/design_systems)
 * [New Users](manuscript/chapters/ch5_new_users)
   * [Getting Started](manuscript/new_users/getting_started.md)
   * [Your First Drupal Website](manuscript/new_users/your_first_drupal_website.md)
