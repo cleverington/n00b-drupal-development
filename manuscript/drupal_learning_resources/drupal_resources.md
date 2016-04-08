@@ -60,7 +60,7 @@
 -----
 
 ### Symfony
- *
+ * [The Symfony Book](http://symfony.com/doc/current/index.html "The Symfony Book") - Symfony has **excellent** documentation. I cannot state enough how clean and detailed their documentation is.
 
 -----
 
