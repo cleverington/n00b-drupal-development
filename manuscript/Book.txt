@@ -15,9 +15,14 @@
 ## what_is_content_management/what_content_management_is_not.md
 ## what_is_content_management/CMS_examples.md
 # chapters/ch4_about_drupal.md
-## drupal/the_paper_project.md
-## drupal/the_stack.md
+## about_drupal/the_paper_project.md
+## about_drupal/the_stack.md
+## about_drupal/design_systems.md
 # chapters/ch5_new_users.md
+## new_users/getting_started.md
+## new_users/you_need_drush.md
+## new_users/site_building.md
+## new_users/your_first_drupal_website.md
 # chapters/ch6_drupal_learning.md
 ## drupal_learning_resources/html_css_foundation_resources.md
 ## drupal_learning_resources/js_angular_ajax_json_resources.md
