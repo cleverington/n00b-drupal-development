@@ -4,6 +4,8 @@ The Drupal Community is, in a word, **massive**.
 
 More importantly, it is *friendly* and filled with **great people**.
 
+> Come for the Code, Stay for the Community
+
 I cannot re-inforce this enough. Drupal = Good people and a great community.
 
 Most documentation on [d.o](https://www.drupal.org "Drupal.org") tends to avoid directly name-dropping, but I will do so here so that you, as a new entrant to the community, can understand just *why* Drupal has survived the rise and fall of more than a few competitors over the years and remains strong to this day.
