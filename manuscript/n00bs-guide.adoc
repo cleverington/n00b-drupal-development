@@ -1,0 +1,66 @@
+[[n00bs-guide]]
+= n00b's Guide to Drupal
+Charles Leverington <charles.leverington@gmail.com>
+v0.01, 2016-04-10
+
+[[foreword]]
+== Foreword
+
+include::license.adoc[]
+include::table_of_contents.adoc[]
+include::about_the_book.adoc[]
+include::about_the_author.adoc[]
+
+[[getting_started]]
+== Getting Started
+
+include::who_should_read.adoc[]
+include::using_this_book.adoc[]
+include::come_for_the_code.adoc[]
+include::stay_for_the_community.adoc[]
+include::drupal_history.adoc[]
+
+[[what_is_content_management]]
+== What is Content Managment?
+
+include::what_content_management_is.adoc[]
+include::what_content_management_is_not.adoc[]
+include::CMS_examples.adoc[]
+
+[[about_drupal]]
+== About Drupal
+
+include::the_paper_project.adoc[]
+include::the_stack.adoc[]
+include::design_systems.adoc[]
+
+[[new_users]]
+== New Users
+
+include::where_to_begin.adoc[]
+include::you_need_drush.adoc[]
+include::your_first_drupal_website.adoc[]
+include::site_building.adoc[]
+
+// Add this in later?
+
+[[your_first_website_cont]]
+== Your First Website - Continued
+
+include::first-website_drupal-vm.adoc[]
+include::first-website_aquia.adoc[]
+include::first-website_aquifer.adoc[]
+include::first-gadget.adoc[]
+
+// Back to existing pages
+
+[[drupal_learning]]
+== Drupal Learning
+
+include::system_learning.adoc[]
+include::html_css_foundation_resources.adoc[]
+include::js_angular_ajax_json_resources.adoc[]
+include::git_github_gitbook_leanpub_resources.adoc[]
+include::drupal_resources.adoc[]
+
+
