@@ -1,7 +1,7 @@
 [[about_the_book]]
 = About this book
 
-*Today? This book is a work-in-progress.
+*Today?* This book is a work-in-progress.
 
 As mentioned in the previous section, there are multiple goals. If I get Contributors along the way? Great. If not? Great. This purpose of this book is not profit. It is more a personal manual and personal journal.
 
@@ -12,10 +12,10 @@ As mentioned in the previous section, there are multiple goals. If I get Contrib
 **A n00b's Guide to Drupal, Development, & Everything** \(*Or something like that...*\), is a project to leverage multiple long-term goals:
 
  + Build an understanding of the available tools within:
-  - [Atom](https://atom.io/ "Adam | A GitHub Project"),
-  - [LeanPub](https://leanpub.com/ "LeanPub"),
-  - [GitBook](https://www.gitbook.com/ "GitBook | A GitHub Project"),
-  - [GitHub](https://github.com/ "GitHub"), [Git](https://try.github.io/ "Try Git Free!"),
+  - https://atom.io/[Atom | A GitHub Project],
+  - https://leanpub.com/[LeanPub],
+  - https://www.gitbook.com/[GitBook | A GitHub Project],
+  - https://github.com/[GitHub], https://try.github.io/[Try Git Free!],
   - [Jeff Geerling's](http://jeffgeerling.com/ "Jeff Geerling's Website") [Drupal-Pi](https://github.com/geerlingguy/drupal-pi "Drupal-Pi!"),
  + Create a viable Study Guide for each of the the Acquia Certified Drupal Developer Exams:
    - [Certified Drupal Site Builder](https://www.acquia.com/customer-success/learning-services/acquia-certified-drupal-site-builder-exam-blueprint "Acquia Certified Drupal Site Builder")
