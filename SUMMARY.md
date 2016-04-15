@@ -32,3 +32,4 @@
   * [MySQL, SQL, IIS, PHP, & Apache](manuscript/database_resources.md)
   * [Git, GitHub, GitBook, & LeanPub](manuscript/git_github_gitbook_leanpub_resources.md)
   * [Drupal Resources](manuscript/drupal_resources.md)
+* [Glossary](GLOSSARY.md)
