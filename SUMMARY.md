@@ -20,7 +20,7 @@
    * [The Paper Project](manuscript/the_paper_project.md)
    * [The Stack](manuscript/the_stack.md)
    * [Design Systems](manuscript/design_systems.md)
-* [New Users](manuscript/new_users)
+* [New Users](manuscript/new_users.md)
   * [Getting Started](manuscript/getting_started.md)
   * [You Need Drush](manuscript/you_need_drush.md)
   * [Your First Drupal Website](manuscript/your_first_drupal_website.md)
