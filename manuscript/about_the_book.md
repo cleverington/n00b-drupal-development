@@ -7,6 +7,7 @@ As mentioned in the previous section, there are multiple goals. If I get Contrib
 + If it can be written, it is known.
 + If it is known, it is reproducible.
 + If it can be complicated, someone **will** do so.
++ If it isn't documented, it doesn't exist.
 
 **A n00b's Guide to Drupal, Development, & Everything** \(*Or something like that...*\), is a project to leverage multiple long-term goals:
 
