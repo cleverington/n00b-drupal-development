@@ -1,10 +1,10 @@
-# About this book
+# {{ book.sections.foreword.about_the_book }}
 
-**Today?** This book is a work-in-progress. 
+**Today?** This book is a work-in-progress.
 
-As mentioned in the previous section, there are multiple goals. If I get Contributors along the way? Great. If not? Great. This purpose of this book is not profit. It is more a personal manual and personal journal. 
+As mentioned in the previous section, there are multiple goals. If I get Contributors along the way? Great. If not? Great. This purpose of this book is not profit. It is more a personal manual and personal journal.
 
-+ If it can be written, it is known. 
++ If it can be written, it is known.
 + If it is known, it is reproducible.
 + If it can be complicated, someone **will** do so.
 
@@ -28,7 +28,7 @@ As mentioned in the previous section, there are multiple goals. If I get Contrib
    - Any other Certifications as they come!
  + Have fun playing in Git and Authoring content.
 
-  The 'final' product will likely be a set of serialized volumes, each detailing a specific role and growth for prospective Devs and Admins. 
+  The 'final' product will likely be a set of serialized volumes, each detailing a specific role and growth for prospective Devs and Admins.
 
  ### As a Early Draft:
  + Volume I
@@ -42,7 +42,7 @@ As mentioned in the previous section, there are multiple goals. If I get Contrib
   - Appendix: Resources for Drupal Mastery.
  + Volume IV
   - Who knows?
- 
+
 -----
 
 #### Further Reading:

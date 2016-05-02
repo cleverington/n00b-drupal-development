@@ -1,4 +1,4 @@
-# Using This Book
+# {{ book.sections.getting_started.using_this_book }}
 
 ### Content
 
@@ -18,7 +18,7 @@ Markdown was authored by John Gruber as an easy and fast text-to-HTML tool for w
 
 ``` html
  Blocks of code, as seen later, will look like this.
- <html> 
+ <html>
   <head>
   </head>
   <body>

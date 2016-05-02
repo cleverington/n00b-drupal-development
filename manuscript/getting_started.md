@@ -1,4 +1,4 @@
-# Getting Started
+# {{ book.chapters.getting_started }}
 
 The first thing to understand when starting a journey towards a future as a Web Developer, Web Designer, SysOps, SysAdmin, DevOps, etc., etc. is to understand **your own** long-term goals.
 

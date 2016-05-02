@@ -1,4 +1,4 @@
-# Drupal Learning Resources
+# {{ book.chapters.what_is_content_management }}
 
 Designing, Prototyping, Cultivating, and Presenting a unified User Experience is as much a journey for the Developer as it is for the Front-End Designers, Back-End Designers, DevOps, and SysOps.
 

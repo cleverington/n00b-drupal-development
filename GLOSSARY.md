@@ -1,5 +1,8 @@
 # Glossary
 
+# {{ book.glossary.drupal }}
+Drupal is a software that can be used by individuals or groups of users -- even those lacking technical skills -- to easily create and manage many types of Web sites. The application includes a content management platform and a development framework, which is extensible enough to be used for many projects including game development, financial accounting, and more.
+
 # {{ book.glossary.git }}
 Git is a {{ book.glossary.vcs }} used by the Drupal Community.
 

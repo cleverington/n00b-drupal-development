@@ -1,4 +1,4 @@
-# The Paper Project
+# {{ book.sections.about_drupal.the_paper_project }}
 
 The Paper Project is silly.
 
@@ -55,6 +55,6 @@ If using someone else's theme, Developers and Site Builders are limited, to a po
 
  + [Drupal Gardens](https://www.drupalgardens.com/ "Drupal Gardens"): dGardens has one of the single greatest tools for quickly learning and understanding Blocks, CSS, and HTML composition I have ever come across, yet they barely advertise it.
   - [The Drupal Gardens ThemeBuilder](https://www.drupalgardens.com/themebuilder "ThemeBuilder") allows users to dynamically alter the CSS of their website in-action, while actually *seeing* the changes occur on-screen. In addition, users can navigate to the 'Advanced' tab of the ThemeBuilder to recieve a text print-out of their active CSS to monitor where and how it changes.
-  - Its like Legos. Only as Web Development. 
+  - Its like Legos. Only as Web Development.
  + If anyone has a great visual reference for picturing these concepts (or wants to draw them and hand 'em over), let me know!
  + [sqndr's Drupal 8 Theming Guide](http://d8.sqndr.com/index.html "The Drupal 8 Theming Guide") - Sander, the author, wrote a reflexively simple **and** detailed must-read book on theme generation, creation, and editing in Drupal 8.

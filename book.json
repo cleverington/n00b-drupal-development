@@ -1,11 +1,48 @@
 {
   "variables": {
     "glossary": {
-      "vcs": "Version Control System",
-      "git": "Git"
+      "drupal": "Drupal",
+      "git": "Git",
+      "vcs": "Version Control System"
     },
     "chapters": {
-      "come_for_the_code": "Come For The Code"
+      "about_drupal": "About Drupal",
+      "drupal_learning": "Drupal Learning",
+      "foreword": "Foreword",
+      "getting_started": "Getting Started",
+      "new_users": "New Users",
+      "what_is_content_management": "What is Content Management"
+    },
+    "sections": {
+      "about_drupal": {
+        "the_paper_project": "The Paper Project",
+        "the_stack": "The Stack"
+      },
+      "drupal_learning": {
+        "system_learning": "System Learning"
+        },
+      "foreword": {
+        "about_the_book": "About The Book",
+        "about_the_author": "About The Author",
+        "license": "License",
+        "table_of_contents": "Table of Contents"
+      },
+      "getting_started": {
+        "come_for_the_code": "Come For The Code",
+        "drupal_history": "Drupal History",
+        "stay_for_the_community": "Stay For The Community",
+        "using_this_book": "Using This Book",
+        "who_should_read": "Who Should Read"
+      },
+      "new_users": {
+        "your_first_website": "Your First Website",
+        "you_need_drush": "You Need Drush"
+        },
+      "what_is_content_management": {
+        "cms_examples": "Content Management System (CMS) Examples",
+        "what_content_management_is": "What Content Management IS",
+        "what_content_management_is_not": "What Content Management Is NOT"
+      }
     },
     "authors": {
       "name": "Charles Leverington"

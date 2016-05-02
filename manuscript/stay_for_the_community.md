@@ -1,4 +1,4 @@
-# Stay For The Community
+# {{ book.sections.getting_started.stay_for_the_community }}
 
 The Drupal Community is, in a word, **massive**.
 
@@ -16,7 +16,7 @@ Honestly, I only vaguely remember playing in the Drupal 5 server 'way back when'
 
 # TimeSkip: Drupal Camp Austin - 2011:
 
-Having been learning Drupal off and on for a few years from @illepic (and from scratch), I decided to attend my first 'convention' to experience the "Community" a little better. I already interacted with a lot of people via the \#Drupal IRC chatroom, so I felt confident to not make a fool out of myself. 
+Having been learning Drupal off and on for a few years from @illepic (and from scratch), I decided to attend my first 'convention' to experience the "Community" a little better. I already interacted with a lot of people via the \#Drupal IRC chatroom, so I felt confident to not make a fool out of myself.
 
 This plan worked out well as Drupal Camp Austin happened less than two months later in November 2011.
 
@@ -24,7 +24,7 @@ Imagine, if you will, a lone Developer armed with nothing but a semi-new Mac lap
 
 The first person I met, while walking in the door, is a friendly guy named Chris, who walked with me up to the [Four Kitchens](https://fourkitchens.com/ "Four Kitchens") booth, where I learned about the Camp line-up, tutorials, free resources, and best places 'to be'. Chris, as it turned out, is rupl, a really good HTML/CSS guru I had already been learning from. \(Really good as in rupl was one of the largest contributers for the module [Modernizr](https://www.drupal.org/project/modernizr "Module | Modernizr"), which has been integrated into Drupal 8 Core because of how ridiculously awesome it is. \)
 
-Then I went to my first live tutorial where a rather detailed speech was given on Responsive theming, the Omega theme, and the growing support for HTML 5 across the Web Development community. 
+Then I went to my first live tutorial where a rather detailed speech was given on Responsive theming, the Omega theme, and the growing support for HTML 5 across the Web Development community.
 
 Or, well, I tried to. I really did.
 

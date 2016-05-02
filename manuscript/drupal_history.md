@@ -1,4 +1,4 @@
-# Drupal History
+# {{ book.sections.getting_started.drupal_history }}
 
 > "In Dries we Trust." ~ [d.o | rocketeerbkw](https://www.drupal.org/u/rocketeerbkw "d.o | rocketeerbkw")
 

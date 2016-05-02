@@ -1,3 +1,3 @@
-# Content Management System (CMS) Examples
+# {{ book.sections.what_is_content_management.cms_examples }}
 
 placeholder

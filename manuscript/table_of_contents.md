@@ -1,11 +1,11 @@
-# Table of Contents
+# {{ book.sections.foreword.table_of_contents }}
 
-* [Introduction](README.md) 
+* [Introduction](README.md)
 * [Foreword](manuscript/chapters/ch1_foreword.md)
  * [License](manuscript/foreword/foreword_license.md)
  * [Table Of Contents](manuscript/foreword/table_of_contents.md)
- * [About The Book](manuscript/foreword/about_the_book.md) 
- * [About The Author](manuscript/foreword/about_the_author.md) 
+ * [About The Book](manuscript/foreword/about_the_book.md)
+ * [About The Author](manuscript/foreword/about_the_author.md)
 * [Getting Started](manuscript/chapters/ch2_getting_started.md)
  * [Who Should Read](manuscript/getting_started/who_should_read.md)
  * [Using This Book](manuscript/getting_started/using_this_book.md)

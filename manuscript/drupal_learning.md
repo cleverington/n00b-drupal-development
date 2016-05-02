@@ -1,4 +1,4 @@
-# About Drupal
+# {{ book.chapters.drupal_learning }}
 
 **Build something amazing, for anyone, anywhere.**
 
@@ -22,4 +22,4 @@ Drupal, like many other open source software, is distributed under the terms of 
 #### Further Reading:
 
  + Drupal Licensing: [https://www.drupal.org/about/licensing](https://www.drupal.org/about/licensing "Drupal Licensing")
- + Drupal Mission, Values, and Principles: [https://www.drupal.org/about/mission-and-principles](https://www.drupal.org/about/mission-and-principles "Mission, Values, and Principles") 
+ + Drupal Mission, Values, and Principles: [https://www.drupal.org/about/mission-and-principles](https://www.drupal.org/about/mission-and-principles "Mission, Values, and Principles")

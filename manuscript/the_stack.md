@@ -1,4 +1,4 @@
-# The Stack
+# {{ book.sections.about_drupal.the_stack }}
 
 The single most-important factor a new Developer, Administrator, etc. should understand is the "Stack".
 
@@ -7,7 +7,7 @@ Unfortunately, there are *many* different 'Stacks' to learn about.
 ### LAMP Stack - \(Linux, Apache, MySQL, PHP\)
 The LAMP stack is the traditional installation used for your first Drupal build, no matter the role. With the exception of the last one. Drupal has always been, and probably will always be, developed in PHP. Converting to other languages such as Python, JAVA, Ruby on Rails each have their own advantages, but there would be **no** upgrade path \(more on upgrade paths later\) available for current servers and current projects. This would also nullify the knowledge-base of current Developers and, most likely, cause the entire Drupal Community to fall apart. Thus, Drupal has been, and will most likely always be, a PHP software.
 
-#### Other possible Server-Stacks used for a Drupal installation might be: 
+#### Other possible Server-Stacks used for a Drupal installation might be:
  + \(Unbuntu, Nginx, NoSQL, PHP\)
  + \(Raspbian, Apache, MySQL, PHP\)
  + The MAMP Stack - On Mac: \(MAC OSX, Apache, MySQL, PHP\)

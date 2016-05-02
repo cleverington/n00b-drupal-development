@@ -1,4 +1,4 @@
-# About the author
+# {{ book.sections.foreword.about_the_author }}
 
 Howdy.
 

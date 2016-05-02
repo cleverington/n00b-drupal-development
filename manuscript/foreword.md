@@ -1,4 +1,4 @@
-# Foreword
+# {{ book.chapters.foreword }}
 
 ### Final Wordcount
 
