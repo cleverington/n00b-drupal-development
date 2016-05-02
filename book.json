@@ -24,7 +24,7 @@
       "foreword": {
         "about_the_book": "About The Book",
         "about_the_author": "About The Author",
-        "license": "License",
+        "foreword_license": "License",
         "table_of_contents": "Table of Contents"
       },
       "getting_started": {

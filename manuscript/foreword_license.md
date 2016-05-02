@@ -1,6 +1,6 @@
-# License
+# {{ book.sections.foreword.foreword_license }}
 
-This book was licened with a [Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/). 
+This book was licened with a [Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ## You are free to:
 
