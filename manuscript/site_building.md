@@ -1,3 +1,0 @@
-# Placeholder
-
-Text goes here.
