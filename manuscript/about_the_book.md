@@ -13,6 +13,7 @@ As mentioned in the previous section, there are multiple goals. If I get Contrib
 
  + Build an understanding of the available tools within:
   - [Atom](https://atom.io/ "Adam | A GitHub Project"),
+  - [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code Homepage")
   - [LeanPub](https://leanpub.com/ "LeanPub"),
   - [GitBook](https://www.gitbook.com/ "GitBook | A GitHub Project"),
   - [GitHub](https://github.com/ "GitHub"), [Git](https://try.github.io/ "Try Git Free!"),

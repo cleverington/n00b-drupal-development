@@ -2,7 +2,7 @@
 
 If you are a Mac or Linux user, you really, *really* need [Drush](http://docs.drush.org/en/master/install/).
 
-Even if you, as a beginner Drush is a tool every Drupalist and Drupalista should use.
+Even if you are a beginner, Drush is a tool **every** Drupalist and Drupalista should use.
 
 This is because Drush, like Drupal, is a multifaceted tool useful for beginners and experts alike.
 
@@ -13,128 +13,23 @@ This is because Drush, like Drupal, is a multifaceted tool useful for beginners 
 When installing your first site in Drupal on the last page, we walked through many steps, did we not?
 
 Once installed, Drush allows for this:
-```
+```bash
 user@machine:~/ | => cd /your-project/
 user@machine:~/public_html/drupal/ | master
 => drush site-install --acount-name=admin --account-pass=admin
 ```
 
+Drush also allows for this:
+```bash
+drush @site.env cc all (Drupal 7)
+drush @site.env cache-rebuild (Drupal 8)
+```
+
 With the correct database information and an understanding of your own project Drush saves lots of time.
 
-Drush is not the only tool
+Drush is not the only tool for Site Maintenance and Admininistration (see the next page).
 
-## Scaffolding
-
-What is Scaffolding?
-
-I'm glad you asked.  (I was going to talk about it anyway.) Each Drupal installation from Drupal 6 onwards has the same file structure, files & infrastructure.
-
-This means work which should be quickly and easily predictable and repeatable via scripting (through Drush, Gulp, or Grunt, for example) and version control (such as Git).
-
-No matter which version of Drupal you might be using, your directory will look something like this:
-```
-# Drupal-6.x-dev (2016-April)
-
-includes/
-misc/
-modules/
-profiles/
-scripts/
-sites/
-themes/
-.htaccess
-CHANGELOG
-COPYRIGHT
-cron.php
-index.php
-install.php
-INSTALL.txt
-INSTALL.mysql.txt
-INSTALL.pgsql.txt
-LICENSE.txt
-MAINTAINERS.txt
-robots.txt
-upgrade.php
-UPGRADE.txt
-xmlrpc.php
-```
-Advanced users, being quite smarmy and up with the hip provisioning, might even have something like this:
-```
-# Drupal-7.x-dev (2016-April)
-
-includes/
-misc/
-modules/
-profiles/
-scripts/
-sites/
-themes/
-.htaccess
-authorize.php
-CHANGELOG
-COPYRIGHT
-cron.php
-index.php
-install.php
-INSTALL.txt
-INSTALL.mysql.txt
-INSTALL.pgsql.txt
-INSTALL.sqlite.txt
-LICENSE.txt
-MAINTAINERS.txt
-README.txt
-robots.txt
-upgrade.php
-UPGRADE.txt
-web.xml
-xmlrpc.php
-```
-and people **way** over your head (and someimtes mine) have something like this:
-```
-# Drupal-8.2.x-dev (2016-April)
-
-core/
-modules/
-profiles/
-sites/
-themes/
-vendors/
-.csslintrc
-.editorconfig
-.eslintrc
-.htaccess
-autoload.php
-composer.json
-example.txt
-index.php
-LICENSE.txt
-README.txt
-robots.txt
-update.php
-web.xml
-```
-Notice the similarities? From Drupal 6 to Drupal 7, the file structure barely changed at all.
-
-> To reiterate, Dont' Hack Core
-
-The sites/ folder and profiles/ folder is maintained through *all* installations, which is where all Development work happens, whether as a Front End Developer, Back End Developer, Site Builder, or Certified n00b.
-
-When using standardized Drupal Best Practices, the sites/ folder will generally have the same directory structure between installations as well, such as:
-```
-all/
-  - files/
-  - modules/
-  - themes/
-default/
-  - files/
-  - modules/
-  - themes/
-  - default.settings.php
-  - settings.php
-  - local-settings.php
-```
-*Note - Your installation may not have a local-settings.php file, but you should before moving into production. We can get into that later.*
-
+Drush **is** the must-have tool, however.
 
 -----
 

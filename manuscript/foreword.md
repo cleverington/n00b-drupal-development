@@ -17,10 +17,10 @@ By happy coincidence, the journey \(roughly\) matches the Core Competencies as d
 The Documentation has useful gems:
  + [d.o | Drupal 7 - The Essentials](https://www.drupal.org/documentation/the-essentials-7 "Drupal 7 Essentials")
   - This lovely gem was added via the Creative Commons license to drupal.org in May 2012. For Developers transferring their current knowledge-base into Drupal-Development, this book is amazing. Unfortunately, the book also makes a number of assumptions, such as Development being done in a Drupal 7 environment and Developers knowing *exactly* what they are doing like Code Ninjas for everything not directly Drupal.
- + [d.o | The Drupal Cookbook (for beginners)](https://www.drupal.org/documentation/customization/tutorials/beginners-cookbook "The Drupal Cookbook (for beginners)")
-  - The Beginner's Guide was, at one point, a useful journey for Beginner and Novice level Administrators, Site Builders, DevOps, and SysOps for 'How to Start Drupal'. I \(the author\) actually contributed a number of pages to the build in 2011. As it is now, however...
- + [d.o | User Guide](https://www.drupal.org/project/user_guide "Drupal 8 User Guide")
-  - [DRAFT User Guide](https://userguide-drupal.redesign.devdrupal.org/d8guide/en/index.html "DRAFT User Guide") - User/Pass: drupal/drupal - Currently in *very* draft status, the Drupal 8 User Guide aims to be a 'new and improved' version of the Drupal Documentation.
+ + [d.o | Drupal 7 Documentation](https://www.drupal.org/docs/7 "Drupal 7 Documentation")
+  - The Drupal 7 Documentation is a great go-to resource for quick-search answers.... when you actually know the question.
+ + [d.o | Drupal 8 User Guide](https://www.drupal.org/docs/user_guide/en/index.html "Drupal 8 User Guide")
+  - The Drupal 8 User Guide takes an approach not previously used by Drupal: Providing Site Builders a 'starting point' on documentation. Large portions of the n00b's Guide will try and follow the well thought out approach within the Drupal 8 User Guide.
   - More information as it becomes available.
 
 #### Note

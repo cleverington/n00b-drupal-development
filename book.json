@@ -2,6 +2,8 @@
   "variables": {
     "glossary": {
       "drupal": "Drupal",
+      "drupalconsole": "Drupal Console",
+      "drush": "Drush",
       "git": "Git",
       "vcs": "Version Control System"
     },
@@ -19,7 +21,12 @@
         "the_stack": "The Stack"
       },
       "drupal_learning": {
-        "system_learning": "System Learning"
+        "system_learning": "System Learning",
+        "drupal_learning": "Drupal Learning",
+        "drupal_learning_sections": {
+            "installing_drush": "Installing Drush",
+            "installing_drupal_console": "Installing Drupal Console"
+          }
         },
       "foreword": {
         "about_the_book": "About The Book",
@@ -36,7 +43,10 @@
       },
       "new_users": {
         "your_first_website": "Your First Website",
-        "you_need_drush": "You Need Drush"
+        "you_need_composer": "You Need Composer",
+        "you_need_drush": "You Need Drush",
+        "you_need_drupalconsole": "You Need Drupal Console",
+        "scaffolding": "Scaffolding and Directory Structures"
         },
       "what_is_content_management": {
         "cms_examples": "Content Management System (CMS) Examples",

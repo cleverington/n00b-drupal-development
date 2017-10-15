@@ -10,17 +10,20 @@
 ## manuscript/come_for_the_code.md
 ## manuscript/stay_for_the_community.md
 ## manuscript/drupal_history.md
-# manuscript/what_is_content_management.md
+# manuscript/what_is_drupal.md
 ## manuscript/what_content_management_is.md
 ## manuscript/what_content_management_is_not.md
 ## manuscript/CMS_examples.md
 # manuscript/about_drupal.md
 ## manuscript/the_paper_project.md
 ## manuscript/the_stack.md
+## manuscript/paas_hosting.md
 ## manuscript/design_systems.md
 # manuscript/new_users.md
 ## manuscript/getting_started.md
+## manuscript/you_need_composer.md
 ## manuscript/you_need_drush.md
+## manuscript/you_need_drupalconsole.md
 ## manuscript/your_first_drupal_website.md
 ## [Site Building](manuscript/site_building.md
 # manuscript/drupal_learning.md
@@ -30,3 +33,6 @@
 ## manuscript/database_resources.md
 ## manuscript/git_github_gitbook_leanpub_resources.md
 ## manuscript/drupal_resources.md
+### manuscript/installing_composer.md
+### manuscript/installing_drush.md
+### manuscript/installing_drupalconsole.md

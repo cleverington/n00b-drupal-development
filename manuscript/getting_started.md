@@ -16,3 +16,5 @@ For those of you still reading (and thank you for that), I will reiterate someth
 > Come for the Code, Stay for the Community
 
 If you learn nothing else from my book, learn that support is available for all skill levels at any time, anywhere.
+
+If that lesson passes by your alley, instead re-read the message **"No man is an island"**. The last few years (especially after Node.js became super-popular) have seen a **heavy** rise of the 'Just in time' or *R.A.D.* (R.apid A.pplication D.evelopment) philosophies. Knowing **how** to research and debug using the tools available is more important sometimes than anything else.
