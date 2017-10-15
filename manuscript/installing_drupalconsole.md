@@ -1,4 +1,4 @@
-# {{ book.sections.drupal_learning_sections.installing_drupalconsole }}
+# {{ book.sections.drupal_learning.drupal_learning_sections.installing_drupalconsole }}
 
 ## Role
 - ALL

@@ -30,7 +30,7 @@
   * [Your First Drupal Website](manuscript/your_first_drupal_website.md)
   * [Site Building](manuscript/site_building.md)
 * [Drupal Learning Resources](manuscript/drupal_learning.md)
-  * [System Learning](manuscript/System_Learning.md)
+  * [System Learning](manuscript/system_learning.md)
   * [HTML, CSS, & Foundation](manuscript/html_css_foundation_resources.md)
   * [JS, AngularJS, AJAX, & JSON](manuscript/js_angular_ajax_json_resources.md)
   * [MySQL, SQL, IIS, PHP, & Apache](manuscript/database_resources.md)

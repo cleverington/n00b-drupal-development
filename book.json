@@ -24,6 +24,7 @@
         "system_learning": "System Learning",
         "drupal_learning": "Drupal Learning",
         "drupal_learning_sections": {
+            "installing_composer": "Installing Composer",
             "installing_drush": "Installing Drush",
             "installing_drupal_console": "Installing Drupal Console"
           }
@@ -48,7 +49,7 @@
         "you_need_drupalconsole": "You Need Drupal Console",
         "scaffolding": "Scaffolding and Directory Structures"
         },
-      "what_is_content_management": {
+      "what_is_drupal": {
         "cms_examples": "Content Management System (CMS) Examples",
         "what_content_management_is": "What Content Management IS",
         "what_content_management_is_not": "What Content Management Is NOT"

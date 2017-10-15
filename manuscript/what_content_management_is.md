@@ -1,4 +1,4 @@
-# {{ book.sections.what_is_content_management.what_content_management_is }}
+# {{ book.sections.what_is_drupal.what_content_management_is }}
 
 ## Role
 - FrontEnd Developer

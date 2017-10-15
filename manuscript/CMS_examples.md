@@ -1,3 +1,3 @@
-# {{ book.sections.what_is_content_management.cms_examples }}
+# {{ book.sections.what_is_drupal.cms_examples }}
 
 placeholder
